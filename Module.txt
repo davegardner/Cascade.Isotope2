@@ -1,0 +1,10 @@
+﻿Name: Cascade.Isotope2
+AntiForgery: enabled
+Author: Dave Gardner (based on Metafizzy Isotope V2)
+Website: http://cascadepixels.com.au
+Version: 1.1
+OrchardVersion: 1.9.1
+Description: This module wraps Mettafizzy Isotope V 2 for use with the Cascade.PhotoSwipe Orchard Module
+Features:
+    Cascade.Isotope2:
+        Description: Wraps Isotope for use with CascadePhotoSwipe
